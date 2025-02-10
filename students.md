@@ -1,6 +1,6 @@
 === Do not modify the content below ===
 
-[Add your name here]
+## [Add your name here]
 [Briefly introduce yourself]
 
 My Github account
@@ -11,9 +11,4 @@ My Github account
 
 === Copy the above template and paste below and edit it ===
 
-[Wang Zhengyang]
-[Nice to meet you]
 
-My Github account
-
-[(https://khk5546.github.io/xnthc/)]
