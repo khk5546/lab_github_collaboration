@@ -3,7 +3,7 @@
 ## [Add your name here]
 [Briefly introduce yourself]
 
-My Github account
+[My Github account](http://www.github.com/put-your-github-username-here/)
 
 [Include the link of you Github page here using the syntax shown above]
 
@@ -11,4 +11,9 @@ My Github account
 
 === Copy the above template and paste below and edit it ===
 
+## [Wang Zhengyang]
+[Nice to meet you]
 
+[My Github account](https://github.com/khk5546)
+
+[https://khk5546.github.io/xnthc/]
